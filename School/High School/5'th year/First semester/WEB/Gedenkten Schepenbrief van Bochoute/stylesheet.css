@@ -1,0 +1,191 @@
+/*
+     ©Arthurdw (Arthur De Witte [arthur.dewitte@gmail.com]) 2019-now
+    
+    This file is a part of "Gedenkten Schepenbrief van Bochoute".
+
+    "Gedenkten Schepenbrief van Bochoute" can not be copied and/or distributed without the express permission of Arthurdw.
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 0 100px;
+    background: #dbdbdb;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+header a .icon {
+    margin-top: 5px;
+    max-height: 90px;
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+header nav ul li {
+    list-style: none;
+}
+
+header nav ul li a {
+    height: 100px;
+    line-height: 100px;
+    padding: 0 10px;
+    color: #585C4A;
+    text-decoration: none;
+    display: block;
+    font-size: 35px;
+}
+
+
+header nav ul li a.active p {
+    position: relative;
+    top: -50px;
+}
+
+header nav ul li a.active {
+    color: black;
+    margin-top: 50px;
+    max-height: 10px;
+    background: #e4e4e4;
+    transition: all .5s ease-in-out;
+}
+
+header nav ul li a {
+    transition: all .4s ease-in-out;
+}
+
+header nav ul li a:hover {
+    color: rgb(15, 15, 15);
+    background: lightgray;
+}
+
+footer p {
+    text-align: center;
+    background-color: #dbdbdb;
+    color: #585C4A;
+    margin: 0;
+    padding: 10;
+}
+
+footer p a:link, footer p a:active, footer p a:visited {
+    color: rgb(109, 70, 192);
+    text-decoration: none;
+}
+
+#home {
+    margin-top: 110px;
+}
+
+.info_box {
+    padding: 10px 0;
+    overflow: hidden;
+    background: none !important;
+    height: 500px;
+    width: 70vw;
+}
+
+.info_box iframe {
+    height: 500px;
+    width: 70vw;
+}
+
+.home {
+    background-color: #e4e4e4;
+}
+
+.active {
+    background-color: #585C4A;
+    color: white;
+    transition: all .2s ease-in-out;
+}
+
+.afbeelding {
+    max-width: 20vw;
+    float: right;
+    padding: 10px;
+    border-radius: 25px;
+}
+
+
+.content {
+    max-width: 70vw;
+}
+
+.content div h2 {
+    position: static;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.content div p {
+    margin-top: 20px;
+}
+
+.content div p a:link, .content div p a:visited, .content div p a:active {
+    color: rgb(71, 8, 209);
+    text-decoration: none;
+}
+
+.back h1 {
+    position: absolute;
+}
+
+.zero {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.limited {
+    max-width: 35vw;
+}
+
+.left {
+    position: relative;
+    float: left;
+}
+
+.right {
+    position: relative;
+    float: right;
+}
+
+.center {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+@media (max-width: 991px) {
+    .right {
+        float: left;
+        padding: 0;
+        margin: 0;
+        visibility: hidden;
+    }
+
+    .info_box {
+        padding: 10px 0;
+        overflow: hidden;
+        background: none !important;
+        height: 200px;
+        width: 70vw;
+    }
+    
+    .info_box iframe {
+        height: 200px;
+        width: 70vw;
+    }
+}

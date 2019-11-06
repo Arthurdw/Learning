@@ -1,0 +1,30 @@
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\twenty_one\bin\Debug\twenty_one.exe.config
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\twenty_one\bin\Debug\twenty_one.exe
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\twenty_one\bin\Debug\twenty_one.pdb
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\twenty_one\obj\Debug\twenty_one.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\twenty_one\obj\Debug\twenty_one.Twenty_One_App.resources
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\twenty_one\obj\Debug\twenty_one.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\twenty_one\obj\Debug\twenty_one.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\twenty_one\obj\Debug\twenty_one.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\twenty_one\obj\Debug\twenty_one.exe
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\twenty_one\obj\Debug\twenty_one.pdb
+F:\code\twenty_one\bin\Debug\twenty_one.exe.config
+F:\code\twenty_one\bin\Debug\twenty_one.exe
+F:\code\twenty_one\bin\Debug\twenty_one.pdb
+F:\code\twenty_one\obj\Debug\twenty_one.csprojAssemblyReference.cache
+F:\code\twenty_one\obj\Debug\twenty_one.Twenty_One_App.resources
+F:\code\twenty_one\obj\Debug\twenty_one.Properties.Resources.resources
+F:\code\twenty_one\obj\Debug\twenty_one.csproj.GenerateResource.cache
+F:\code\twenty_one\obj\Debug\twenty_one.csproj.CoreCompileInputs.cache
+F:\code\twenty_one\obj\Debug\twenty_one.exe
+F:\code\twenty_one\obj\Debug\twenty_one.pdb
+D:\5info\arthur\twenty_one\bin\Debug\twenty_one.exe.config
+D:\5info\arthur\twenty_one\bin\Debug\twenty_one.exe
+D:\5info\arthur\twenty_one\bin\Debug\twenty_one.pdb
+D:\5info\arthur\twenty_one\obj\Debug\twenty_one.csprojAssemblyReference.cache
+D:\5info\arthur\twenty_one\obj\Debug\twenty_one.Twenty_One_App.resources
+D:\5info\arthur\twenty_one\obj\Debug\twenty_one.Properties.Resources.resources
+D:\5info\arthur\twenty_one\obj\Debug\twenty_one.csproj.GenerateResource.cache
+D:\5info\arthur\twenty_one\obj\Debug\twenty_one.csproj.CoreCompileInputs.cache
+D:\5info\arthur\twenty_one\obj\Debug\twenty_one.exe
+D:\5info\arthur\twenty_one\obj\Debug\twenty_one.pdb

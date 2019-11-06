@@ -1,0 +1,20 @@
+D:\5 info\arthurdw\day'nite\bin\Debug\day'nite.exe.config
+D:\5 info\arthurdw\day'nite\bin\Debug\day'nite.exe
+D:\5 info\arthurdw\day'nite\bin\Debug\day'nite.pdb
+D:\5 info\arthurdw\day'nite\obj\Debug\day'nite.csprojAssemblyReference.cache
+D:\5 info\arthurdw\day'nite\obj\Debug\day_nite.Form1.resources
+D:\5 info\arthurdw\day'nite\obj\Debug\day_nite.Properties.Resources.resources
+D:\5 info\arthurdw\day'nite\obj\Debug\day'nite.csproj.GenerateResource.cache
+D:\5 info\arthurdw\day'nite\obj\Debug\day'nite.csproj.CoreCompileInputs.cache
+D:\5 info\arthurdw\day'nite\obj\Debug\day'nite.exe
+D:\5 info\arthurdw\day'nite\obj\Debug\day'nite.pdb
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\day'nite\bin\Debug\day'nite.exe.config
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\day'nite\bin\Debug\day'nite.exe
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\day'nite\bin\Debug\day'nite.pdb
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\day'nite\obj\Debug\day'nite.csprojAssemblyReference.cache
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\day'nite\obj\Debug\day_nite.Form1.resources
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\day'nite\obj\Debug\day_nite.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\day'nite\obj\Debug\day'nite.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\day'nite\obj\Debug\day'nite.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\day'nite\obj\Debug\day'nite.exe
+C:\Users\Gebruiker\Desktop\school\GO- AO\5de jaar\C#\day'nite\obj\Debug\day'nite.pdb

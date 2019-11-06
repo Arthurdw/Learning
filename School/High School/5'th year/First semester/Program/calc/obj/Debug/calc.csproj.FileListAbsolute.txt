@@ -1,0 +1,10 @@
+D:\5INFO\Arthur\calculator\calc\bin\Debug\calc.exe.config
+D:\5INFO\Arthur\calculator\calc\bin\Debug\calc.exe
+D:\5INFO\Arthur\calculator\calc\bin\Debug\calc.pdb
+D:\5INFO\Arthur\calculator\calc\obj\Debug\calc.csprojAssemblyReference.cache
+D:\5INFO\Arthur\calculator\calc\obj\Debug\calc.Form1.resources
+D:\5INFO\Arthur\calculator\calc\obj\Debug\calc.Properties.Resources.resources
+D:\5INFO\Arthur\calculator\calc\obj\Debug\calc.csproj.GenerateResource.cache
+D:\5INFO\Arthur\calculator\calc\obj\Debug\calc.csproj.CoreCompileInputs.cache
+D:\5INFO\Arthur\calculator\calc\obj\Debug\calc.exe
+D:\5INFO\Arthur\calculator\calc\obj\Debug\calc.pdb

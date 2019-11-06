@@ -1,0 +1,10 @@
+F:\code\afbeeldingen\bin\Debug\afbeeldingen.exe.config
+F:\code\afbeeldingen\bin\Debug\afbeeldingen.exe
+F:\code\afbeeldingen\bin\Debug\afbeeldingen.pdb
+F:\code\afbeeldingen\obj\Debug\afbeeldingen.csprojAssemblyReference.cache
+F:\code\afbeeldingen\obj\Debug\afbeeldingen.Properties.Resources.resources
+F:\code\afbeeldingen\obj\Debug\afbeeldingen.csproj.GenerateResource.cache
+F:\code\afbeeldingen\obj\Debug\afbeeldingen.csproj.CoreCompileInputs.cache
+F:\code\afbeeldingen\obj\Debug\afbeeldingen.exe
+F:\code\afbeeldingen\obj\Debug\afbeeldingen.pdb
+F:\code\afbeeldingen\obj\Debug\afbeeldingen.Form1.resources
