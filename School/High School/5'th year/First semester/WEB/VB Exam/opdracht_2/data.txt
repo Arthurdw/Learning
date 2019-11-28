@@ -1,0 +1,17 @@
+Dit is een copie van de wikipedia pagina over rationale functies
+
+Rationale functie
+
+Een rationale functie is een functie in de vorm van een breuk waarvan zowel de teller als de noemer een polynoom is. Een rationale functie is dus het quotiënt van twee polynomen; een synoniem is veeltermbreuk.</p>
+
+Definitie
+
+Een rationale functie q in één veranderlijke is een functie van de vorm:
+waarin zowel t(x) als n(x) een polynoom in x is en n(x) niet de nulpolynoom is.
+Op soortgelijke manier wordt een rationale functie Q in n veranderlijken gedefinieerd als een quotiënt van de vorm:</p>
+
+Kruislings vermenigvuldigen
+
+Als twee rationale functies aan elkaar gelijk zijn, dus
+
+geldt dat

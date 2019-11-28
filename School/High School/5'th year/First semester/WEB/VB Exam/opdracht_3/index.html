@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>test</title>
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+    <div class="container">
+        <h3 style="border-bottom: solid 1px black;">Welkom</h3>
+        <p>
+            Maak hier een persoonlijk account aan om toegang te krijgen tot een aantal services
+            waaronder het online consulteren van resultaten.
+        </p>
+        <p>
+            Nadat u onderstaande gegevens hebt ingevuld, wordt binnen enkele minuten automatisch een email met verdere
+            instructies verstuurd naar het opgegeven adres.
+        </p>
+
+        <form action="register.php" method="post">
+            <div class="row">
+                <div class="col-left">
+                    <label for="email">Voornaam</label>
+                </div>
+                <div class="col-right">
+                    <input name="VNaam" value="Geef je voornaam" type="text">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-left">
+                    <label for="email">Naam</label>
+                </div>
+                <div class="col-right">
+                    <input name="Naam" value="Geef je naam" type="text">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-left">
+                    <label for="email">E-mailadres</label>
+                </div>
+                <div class="col-right">
+                    <input name="email" value="Geef je E-mailadres" type="email">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-left">
+                    <label for="language">Taal</label>
+                </div>
+                <div class="col-right">
+                    <select name="language" id="lang">
+                        <option value="nl">Nederlands</option>
+                        <option value="fr">Frans</option>
+                    </select>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-left">
+                    <input type="checkbox" name="gebrvw" id="grb">
+                </div>
+                <div class="col-right">
+                    <label style="font-weight: bold;" for="gebrvw">Ik ga akkoord met de gebruikersvoorwaarden en de privacy policy</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-left">
+                    <input type="checkbox" name="recveimail" id="recve">
+                </div>
+                <div class="col-right">
+                    <label style="font-weight: bold;" for="recveimail">Ik wil rapporten, servicebrichten en nieuwsbrieven per email
+                        ontvangen</label>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-left"></div>
+                <div class="col-right">
+                    <input type="submit" value="Submit">
+                </div>
+            </div>
+        </form>
+
+    </div>
+
+</body>
+
+</html>

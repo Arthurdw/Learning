@@ -1,0 +1,42 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+}
+.container {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.row:after {
+    content: "";
+    display: block;
+    clear: both;
+}
+.col-left {
+    float: left;
+    width: 20%;
+    text-align: right;
+    font-weight: bold;
+}
+.col-right {
+    float: left;
+    width: 60%;
+    text-align: left;
+}
+.col-left, .col-right {
+    padding: 10px;
+}
+input {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+}
+input[type='checkbox'] {
+    width: 13px;
+}
+input[type='submit'] {
+    width: 150px;
+}
