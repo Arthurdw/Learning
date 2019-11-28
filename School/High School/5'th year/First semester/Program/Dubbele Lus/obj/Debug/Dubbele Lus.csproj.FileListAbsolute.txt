@@ -1,0 +1,19 @@
+F:\code\5INFO\sem1\Dubbele Lus\bin\Debug\Dubbele Lus.exe.config
+F:\code\5INFO\sem1\Dubbele Lus\bin\Debug\Dubbele Lus.exe
+F:\code\5INFO\sem1\Dubbele Lus\bin\Debug\Dubbele Lus.pdb
+F:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele Lus.csprojAssemblyReference.cache
+F:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele_Lus.doubleLoop.resources
+F:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele_Lus.Properties.Resources.resources
+F:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele Lus.csproj.GenerateResource.cache
+F:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele Lus.csproj.CoreCompileInputs.cache
+F:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele Lus.exe
+F:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele Lus.pdb
+D:\code\5INFO\sem1\Dubbele Lus\bin\Debug\Dubbele Lus.exe.config
+D:\code\5INFO\sem1\Dubbele Lus\bin\Debug\Dubbele Lus.exe
+D:\code\5INFO\sem1\Dubbele Lus\bin\Debug\Dubbele Lus.pdb
+D:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele Lus.csprojAssemblyReference.cache
+D:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele_Lus.doubleLoop.resources
+D:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele_Lus.Properties.Resources.resources
+D:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele Lus.csproj.GenerateResource.cache
+D:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele Lus.exe
+D:\code\5INFO\sem1\Dubbele Lus\obj\Debug\Dubbele Lus.pdb
