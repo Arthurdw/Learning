@@ -1,0 +1,10 @@
+F:\code\5INFO\sem1\HEXA NR KLEUR\bin\Debug\HEXA NR KLEUR.exe.config
+F:\code\5INFO\sem1\HEXA NR KLEUR\bin\Debug\HEXA NR KLEUR.exe
+F:\code\5INFO\sem1\HEXA NR KLEUR\bin\Debug\HEXA NR KLEUR.pdb
+F:\code\5INFO\sem1\HEXA NR KLEUR\obj\Debug\HEXA NR KLEUR.csprojAssemblyReference.cache
+F:\code\5INFO\sem1\HEXA NR KLEUR\obj\Debug\HEXA_NR_KLEUR.Form1.resources
+F:\code\5INFO\sem1\HEXA NR KLEUR\obj\Debug\HEXA_NR_KLEUR.Properties.Resources.resources
+F:\code\5INFO\sem1\HEXA NR KLEUR\obj\Debug\HEXA NR KLEUR.csproj.GenerateResource.cache
+F:\code\5INFO\sem1\HEXA NR KLEUR\obj\Debug\HEXA NR KLEUR.csproj.CoreCompileInputs.cache
+F:\code\5INFO\sem1\HEXA NR KLEUR\obj\Debug\HEXA NR KLEUR.exe
+F:\code\5INFO\sem1\HEXA NR KLEUR\obj\Debug\HEXA NR KLEUR.pdb

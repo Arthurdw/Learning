@@ -1,0 +1,10 @@
+F:\code\KleinsteGrootste\bin\Debug\KleinsteGrootste.exe.config
+F:\code\KleinsteGrootste\bin\Debug\KleinsteGrootste.exe
+F:\code\KleinsteGrootste\bin\Debug\KleinsteGrootste.pdb
+F:\code\KleinsteGrootste\obj\Debug\KleinsteGrootste.csprojAssemblyReference.cache
+F:\code\KleinsteGrootste\obj\Debug\KleinsteGrootste.Form1.resources
+F:\code\KleinsteGrootste\obj\Debug\KleinsteGrootste.Properties.Resources.resources
+F:\code\KleinsteGrootste\obj\Debug\KleinsteGrootste.csproj.GenerateResource.cache
+F:\code\KleinsteGrootste\obj\Debug\KleinsteGrootste.csproj.CoreCompileInputs.cache
+F:\code\KleinsteGrootste\obj\Debug\KleinsteGrootste.exe
+F:\code\KleinsteGrootste\obj\Debug\KleinsteGrootste.pdb
