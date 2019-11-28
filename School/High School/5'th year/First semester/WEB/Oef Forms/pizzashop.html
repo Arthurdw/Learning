@@ -1,0 +1,46 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>PizzaShop</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="content center wisk" style="max-width: 350px;">
+        <form method="POST" action="send.php">
+            <h1>Pizza Shop 2.0</h1>
+            <label for="name">Name</label>
+            <input class="input-field" type="text" name="name" id="name">
+            <p>Pizza Topping</p>
+            <input type="radio" name="topping" id="supreme">
+            <label for="supreme">Supreme</label>
+            <input type="radio" name="topping" id="vegetarian">
+            <label for="vegetarian">Vegetarian</label>
+            <input type="radio" name="topping" id="hawaiian">
+            <label for="hawaiian">Hawaiian</label>
+            <p><label for="sauce">Pizza Sauce</label></p>
+            <select name="sauce" id="sauce">
+                <option value="Tomato"></option>
+                <option value="pesto">Pesto</option>
+                <option value="bechamel">Bechamel</option>
+                <option value="salsa">Salsa</option>
+                <option value="bbq-sauce">BBQ Sauce</option>
+                <option value="hummus">Hummus</option>
+                <option value="pumpkin-pizza-sauce">Pumpkin Pizza Sauce</option>
+            </select>
+            <p>Optional Extra's</p>
+            <input type="checkbox" name="cheese" id="cheese">
+            <label for="cheese">Extra Cheese</label>
+            <input type="checkbox" name="gluten" id="gluten">
+            <label for="gluten">Gluten Free Base</label>
+            <label for="extra">Delivery Instructions:</label>
+            <textarea class="input-field" name="extra" id="extra" cols="30" rows="5"></textarea>
+            <input id="submit" type="submit" value="Send my order">
+        </form>
+    </div>
+</body>
+
+</html>
