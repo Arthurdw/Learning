@@ -1,0 +1,10 @@
+G:\code\Tables\bin\Debug\Tables.exe.config
+G:\code\Tables\bin\Debug\Tables.exe
+G:\code\Tables\bin\Debug\Tables.pdb
+G:\code\Tables\obj\Debug\Tables.csprojAssemblyReference.cache
+G:\code\Tables\obj\Debug\Tables.Form1.resources
+G:\code\Tables\obj\Debug\Tables.Properties.Resources.resources
+G:\code\Tables\obj\Debug\Tables.csproj.GenerateResource.cache
+G:\code\Tables\obj\Debug\Tables.csproj.CoreCompileInputs.cache
+G:\code\Tables\obj\Debug\Tables.exe
+G:\code\Tables\obj\Debug\Tables.pdb
