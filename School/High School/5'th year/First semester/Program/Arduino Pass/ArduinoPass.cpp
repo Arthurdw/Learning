@@ -4,9 +4,6 @@
 // The led light will be green if the passcode was right.
 // If the passcode was wrong the light will glow red nad the arduino will be frozen like this for 30 seconds.
 
-// Is `x`allowed to pass?
-bool allowed = false;
-
 // Passcode counter.
 // This will cause the `red light error` when a wrong password has been given!
 int counter = 0;
