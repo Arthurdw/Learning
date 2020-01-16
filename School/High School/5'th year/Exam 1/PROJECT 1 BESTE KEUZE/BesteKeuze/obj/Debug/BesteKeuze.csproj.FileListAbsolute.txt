@@ -1,0 +1,30 @@
+C:\Users\Natacha\Desktop\C# examen 1 - 2019\ProjectenLLN zonder code\BesteKeuze\bin\Debug\BesteKeuze.exe.config
+C:\Users\Natacha\Desktop\C# examen 1 - 2019\ProjectenLLN zonder code\BesteKeuze\bin\Debug\BesteKeuze.exe
+C:\Users\Natacha\Desktop\C# examen 1 - 2019\ProjectenLLN zonder code\BesteKeuze\bin\Debug\BesteKeuze.pdb
+C:\Users\Natacha\Desktop\C# examen 1 - 2019\ProjectenLLN zonder code\BesteKeuze\obj\Debug\BesteKeuze.csprojAssemblyReference.cache
+C:\Users\Natacha\Desktop\C# examen 1 - 2019\ProjectenLLN zonder code\BesteKeuze\obj\Debug\BesteKeuze.Form1.resources
+C:\Users\Natacha\Desktop\C# examen 1 - 2019\ProjectenLLN zonder code\BesteKeuze\obj\Debug\BesteKeuze.Properties.Resources.resources
+C:\Users\Natacha\Desktop\C# examen 1 - 2019\ProjectenLLN zonder code\BesteKeuze\obj\Debug\BesteKeuze.csproj.GenerateResource.cache
+C:\Users\Natacha\Desktop\C# examen 1 - 2019\ProjectenLLN zonder code\BesteKeuze\obj\Debug\BesteKeuze.csproj.CoreCompileInputs.cache
+C:\Users\Natacha\Desktop\C# examen 1 - 2019\ProjectenLLN zonder code\BesteKeuze\obj\Debug\BesteKeuze.exe
+C:\Users\Natacha\Desktop\C# examen 1 - 2019\ProjectenLLN zonder code\BesteKeuze\obj\Debug\BesteKeuze.pdb
+D:\School\Examens\NBEx122019\5INFO SoftwareOntw 12 2019\bestandenEX1C#2019\BesteKeuze\bin\Debug\BesteKeuze.exe.config
+D:\School\Examens\NBEx122019\5INFO SoftwareOntw 12 2019\bestandenEX1C#2019\BesteKeuze\bin\Debug\BesteKeuze.exe
+D:\School\Examens\NBEx122019\5INFO SoftwareOntw 12 2019\bestandenEX1C#2019\BesteKeuze\bin\Debug\BesteKeuze.pdb
+D:\School\Examens\NBEx122019\5INFO SoftwareOntw 12 2019\bestandenEX1C#2019\BesteKeuze\obj\Debug\BesteKeuze.csprojAssemblyReference.cache
+D:\School\Examens\NBEx122019\5INFO SoftwareOntw 12 2019\bestandenEX1C#2019\BesteKeuze\obj\Debug\BesteKeuze.Form1.resources
+D:\School\Examens\NBEx122019\5INFO SoftwareOntw 12 2019\bestandenEX1C#2019\BesteKeuze\obj\Debug\BesteKeuze.Properties.Resources.resources
+D:\School\Examens\NBEx122019\5INFO SoftwareOntw 12 2019\bestandenEX1C#2019\BesteKeuze\obj\Debug\BesteKeuze.csproj.GenerateResource.cache
+D:\School\Examens\NBEx122019\5INFO SoftwareOntw 12 2019\bestandenEX1C#2019\BesteKeuze\obj\Debug\BesteKeuze.csproj.CoreCompileInputs.cache
+D:\School\Examens\NBEx122019\5INFO SoftwareOntw 12 2019\bestandenEX1C#2019\BesteKeuze\obj\Debug\BesteKeuze.exe
+D:\School\Examens\NBEx122019\5INFO SoftwareOntw 12 2019\bestandenEX1C#2019\BesteKeuze\obj\Debug\BesteKeuze.pdb
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 1 BESTE KEUZE\BesteKeuze\bin\Debug\BesteKeuze.exe.config
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 1 BESTE KEUZE\BesteKeuze\bin\Debug\BesteKeuze.exe
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 1 BESTE KEUZE\BesteKeuze\bin\Debug\BesteKeuze.pdb
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 1 BESTE KEUZE\BesteKeuze\obj\Debug\BesteKeuze.csprojAssemblyReference.cache
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 1 BESTE KEUZE\BesteKeuze\obj\Debug\BesteKeuze.Form1.resources
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 1 BESTE KEUZE\BesteKeuze\obj\Debug\BesteKeuze.Properties.Resources.resources
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 1 BESTE KEUZE\BesteKeuze\obj\Debug\BesteKeuze.csproj.GenerateResource.cache
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 1 BESTE KEUZE\BesteKeuze\obj\Debug\BesteKeuze.csproj.CoreCompileInputs.cache
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 1 BESTE KEUZE\BesteKeuze\obj\Debug\BesteKeuze.exe
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 1 BESTE KEUZE\BesteKeuze\obj\Debug\BesteKeuze.pdb

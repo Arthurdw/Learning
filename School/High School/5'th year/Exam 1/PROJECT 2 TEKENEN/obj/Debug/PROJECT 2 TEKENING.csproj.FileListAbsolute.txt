@@ -1,0 +1,19 @@
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 3 GETALCHECK\bin\Debug\PROJECT 3 GETALCHECK.exe.config
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 3 GETALCHECK\bin\Debug\PROJECT 3 GETALCHECK.exe
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 3 GETALCHECK\bin\Debug\PROJECT 3 GETALCHECK.pdb
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 3 GETALCHECK\obj\Debug\PROJECT 2 TEKENING.csprojAssemblyReference.cache
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 3 GETALCHECK\obj\Debug\PROJECT_3_GETALCHECK.Ilusion.resources
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 3 GETALCHECK\obj\Debug\PROJECT_3_GETALCHECK.Properties.Resources.resources
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 3 GETALCHECK\obj\Debug\PROJECT 2 TEKENING.csproj.GenerateResource.cache
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 3 GETALCHECK\obj\Debug\PROJECT 2 TEKENING.csproj.CoreCompileInputs.cache
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 3 GETALCHECK\obj\Debug\PROJECT 3 GETALCHECK.exe
+D:\5INFO\5 info\arthur\bestandenEX1C#2019\PROJECT 3 GETALCHECK\obj\Debug\PROJECT 3 GETALCHECK.pdb
+D:\code\5INFO\EX1 C#\PROJECT 2 TEKENEN\bin\Debug\PROJECT 3 GETALCHECK.exe.config
+D:\code\5INFO\EX1 C#\PROJECT 2 TEKENEN\bin\Debug\PROJECT 3 GETALCHECK.exe
+D:\code\5INFO\EX1 C#\PROJECT 2 TEKENEN\bin\Debug\PROJECT 3 GETALCHECK.pdb
+D:\code\5INFO\EX1 C#\PROJECT 2 TEKENEN\obj\Debug\PROJECT 2 TEKENING.csprojAssemblyReference.cache
+D:\code\5INFO\EX1 C#\PROJECT 2 TEKENEN\obj\Debug\PROJECT_3_GETALCHECK.Ilusion.resources
+D:\code\5INFO\EX1 C#\PROJECT 2 TEKENEN\obj\Debug\PROJECT_3_GETALCHECK.Properties.Resources.resources
+D:\code\5INFO\EX1 C#\PROJECT 2 TEKENEN\obj\Debug\PROJECT 2 TEKENING.csproj.GenerateResource.cache
+D:\code\5INFO\EX1 C#\PROJECT 2 TEKENEN\obj\Debug\PROJECT 3 GETALCHECK.exe
+D:\code\5INFO\EX1 C#\PROJECT 2 TEKENEN\obj\Debug\PROJECT 3 GETALCHECK.pdb
