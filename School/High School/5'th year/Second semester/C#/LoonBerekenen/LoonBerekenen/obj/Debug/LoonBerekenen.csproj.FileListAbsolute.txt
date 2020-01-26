@@ -1,0 +1,9 @@
+D:\code\5INFO\sem2\C#\LoonBerekenen\LoonBerekenen\bin\Debug\LoonBerekenen.exe.config
+D:\code\5INFO\sem2\C#\LoonBerekenen\LoonBerekenen\bin\Debug\LoonBerekenen.exe
+D:\code\5INFO\sem2\C#\LoonBerekenen\LoonBerekenen\bin\Debug\LoonBerekenen.pdb
+D:\code\5INFO\sem2\C#\LoonBerekenen\LoonBerekenen\obj\Debug\LoonBerekenen.csprojAssemblyReference.cache
+D:\code\5INFO\sem2\C#\LoonBerekenen\LoonBerekenen\obj\Debug\LoonBerekenen.Loonberekenen.resources
+D:\code\5INFO\sem2\C#\LoonBerekenen\LoonBerekenen\obj\Debug\LoonBerekenen.Properties.Resources.resources
+D:\code\5INFO\sem2\C#\LoonBerekenen\LoonBerekenen\obj\Debug\LoonBerekenen.csproj.GenerateResource.cache
+D:\code\5INFO\sem2\C#\LoonBerekenen\LoonBerekenen\obj\Debug\LoonBerekenen.exe
+D:\code\5INFO\sem2\C#\LoonBerekenen\LoonBerekenen\obj\Debug\LoonBerekenen.pdb
