@@ -1,0 +1,10 @@
+D:\5INFO\5 info\arthur\Kleuren\bin\Debug\Kleuren.exe.config
+D:\5INFO\5 info\arthur\Kleuren\bin\Debug\Kleuren.exe
+D:\5INFO\5 info\arthur\Kleuren\bin\Debug\Kleuren.pdb
+D:\5INFO\5 info\arthur\Kleuren\obj\Debug\Kleuren.csprojAssemblyReference.cache
+D:\5INFO\5 info\arthur\Kleuren\obj\Debug\Kleuren.Form1.resources
+D:\5INFO\5 info\arthur\Kleuren\obj\Debug\Kleuren.Properties.Resources.resources
+D:\5INFO\5 info\arthur\Kleuren\obj\Debug\Kleuren.csproj.GenerateResource.cache
+D:\5INFO\5 info\arthur\Kleuren\obj\Debug\Kleuren.csproj.CoreCompileInputs.cache
+D:\5INFO\5 info\arthur\Kleuren\obj\Debug\Kleuren.exe
+D:\5INFO\5 info\arthur\Kleuren\obj\Debug\Kleuren.pdb

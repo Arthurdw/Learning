@@ -1,0 +1,10 @@
+D:\5INFO\5 info\arthur\Nablijven\bin\Debug\Nablijven.exe.config
+D:\5INFO\5 info\arthur\Nablijven\bin\Debug\Nablijven.exe
+D:\5INFO\5 info\arthur\Nablijven\bin\Debug\Nablijven.pdb
+D:\5INFO\5 info\arthur\Nablijven\obj\Debug\Nablijven.csprojAssemblyReference.cache
+D:\5INFO\5 info\arthur\Nablijven\obj\Debug\Nablijven.Form1.resources
+D:\5INFO\5 info\arthur\Nablijven\obj\Debug\Nablijven.Properties.Resources.resources
+D:\5INFO\5 info\arthur\Nablijven\obj\Debug\Nablijven.csproj.GenerateResource.cache
+D:\5INFO\5 info\arthur\Nablijven\obj\Debug\Nablijven.csproj.CoreCompileInputs.cache
+D:\5INFO\5 info\arthur\Nablijven\obj\Debug\Nablijven.exe
+D:\5INFO\5 info\arthur\Nablijven\obj\Debug\Nablijven.pdb
