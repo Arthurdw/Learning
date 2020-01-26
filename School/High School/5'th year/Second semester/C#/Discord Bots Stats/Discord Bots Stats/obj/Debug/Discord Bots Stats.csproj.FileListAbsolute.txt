@@ -1,0 +1,9 @@
+D:\code\5INFO\sem2\C#\Discord Bots Stats\Discord Bots Stats\bin\Debug\Discord Bots Stats.exe.config
+D:\code\5INFO\sem2\C#\Discord Bots Stats\Discord Bots Stats\bin\Debug\Discord Bots Stats.exe
+D:\code\5INFO\sem2\C#\Discord Bots Stats\Discord Bots Stats\bin\Debug\Discord Bots Stats.pdb
+D:\code\5INFO\sem2\C#\Discord Bots Stats\Discord Bots Stats\obj\Debug\Discord Bots Stats.csprojAssemblyReference.cache
+D:\code\5INFO\sem2\C#\Discord Bots Stats\Discord Bots Stats\obj\Debug\Discord_Bots_Stats.DBS.resources
+D:\code\5INFO\sem2\C#\Discord Bots Stats\Discord Bots Stats\obj\Debug\Discord_Bots_Stats.Properties.Resources.resources
+D:\code\5INFO\sem2\C#\Discord Bots Stats\Discord Bots Stats\obj\Debug\Discord Bots Stats.csproj.GenerateResource.cache
+D:\code\5INFO\sem2\C#\Discord Bots Stats\Discord Bots Stats\obj\Debug\Discord Bots Stats.exe
+D:\code\5INFO\sem2\C#\Discord Bots Stats\Discord Bots Stats\obj\Debug\Discord Bots Stats.pdb
