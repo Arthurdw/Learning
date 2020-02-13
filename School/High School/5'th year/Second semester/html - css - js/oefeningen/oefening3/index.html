@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .container {
+            width: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        img {
+            width: 300px;
+            margin: 10px;
+            border: 4px solid #ccc;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <img id="1" onclick="changeImage('1', 'washandje');" src="question_mark.jpg">
+        <img id="2" onclick="changeImage('2', 'sponge');" src="question_mark.jpg">
+        <img id="3" onclick="changeImage('3', 'duck');" src="question_mark.jpg">
+    </div>
+    <script>
+        function changeImage(element, image) {
+            document.getElementById(element).src = image + ".jpg"
+        }
+    </script>
+</body>
+
+</html>

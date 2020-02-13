@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<body>
+    <button onclick="veranderTekst()">Klik Hier</button>
+    <p id="tekst">Je hebt nog niet geklikt</p>
+
+    <script>
+        function veranderTekst() {
+            var el = document.getElementById('tekst');
+            el.innerHTML = "Je hebt geklikt"
+        }
+    </script>
+    <div style="position:absolute; bottom:0; left:0; right:0; height:200px; background-color: grey;padding-left:20px; border-top:1px solid #333;">
+        <h3>Hint</h3>
+        <p>Als je op de button klikt dan moet de tekst veranderen in "Je hebt geklikt"</p>
+    </div>
+</body>
+</html>

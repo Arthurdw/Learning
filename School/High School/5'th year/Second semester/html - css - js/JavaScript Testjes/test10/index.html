@@ -1,0 +1,31 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Test 10</title>
+    <style>
+        #content {
+            margin-left: auto;
+            margin-right: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="content"></div>
+    <script>
+        var doc = document.getElementById("content");
+        for (var i = 0; i < 10; ++i) {
+            var text = document.createElement("p");
+            text.style.border = "2px solid black";
+            doc.append(text)
+            for (var j = 0; j <= 255; j += 51) {
+                var inner = document.createElement("span");
+                inner.innerHTML = "test ";
+                inner.style.color = "rgb(" + j + ", 0, 0)";
+                text.append(inner);
+            }
+        }
+    </script>
+</body>
+</html>

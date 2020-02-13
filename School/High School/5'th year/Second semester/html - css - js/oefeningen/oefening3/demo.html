@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .c {
+            width: 1000px;
+            margin-left: auto;
+            margin-right: auto;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        img {
+            width: 300px;
+            margin: 10px;
+            border: 4px solid #ccc;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        c = cd();
+        b = document.querySelector('body');
+        b.append(c);
+        a = ['washandje', 'sponge', 'duck'];
+        for (var i = 0; i < 3; i++) {
+            var im = ci(a[i]);
+            c.append(im);
+        }
+        c.className = "c";
+
+        function cc(n) {
+            return document.createElement(n)
+        }
+
+        function cd() {
+            return cc('div')
+        }
+
+        function ci(i) {
+            m = cc('img');
+            m.id = i;
+            m.src = "question_mark.jpg";
+            m.addEventListener('click', function (e) {
+                this.src = this.id + '.jpg'
+            });
+            return m;
+        }
+    </script>
+</body>
+
+</html>

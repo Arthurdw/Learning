@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .container {
+            width: 500px;
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        .button {
+            width: 100px;
+            float: left;
+            text-align: center;
+            font-size: 24px;
+            cursor: pointer;
+        }
+
+        .button:hover {
+            background-color: grey
+        }
+
+        p {
+            text-align: center
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div onmouseover="changeTextSize('12px');" class="button">12</div>
+        <div onmouseover="changeTextSize('18px');" class="button">18</div>
+        <div onmouseover="changeTextSize('30px');" class="button">30</div>
+        <div onmouseover="changeTextSize('64px');" class="button">64</div>
+        <div onmouseover="changeTextSize('96px');" class="button">96</div>
+    </div>
+    <div style="clear:both"></div>
+    <p id="hello">Hello</p>
+    <script>
+        var doc = document.getElementById("hello");
+
+        function changeTextSize(pixels) {
+            doc.style.fontSize = pixels;
+        }
+    </script>
+</body>
+
+</html>

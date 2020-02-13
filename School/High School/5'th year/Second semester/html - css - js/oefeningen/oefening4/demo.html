@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        button {
+            position: absolute;
+            left: 20px;
+            top: 30px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        var b = gd(),
+            p = 0,
+            l = [
+                [120, 20],
+                [200, 30]
+            ],
+            s = "Ik ben hier",
+            bb = cb();
+        bb.innerHTML = s;
+        b.append(bb);
+
+        function cb() {
+            return c('button')
+        }
+
+        function gd() {
+            return g('body')
+        }
+
+        function g(n) {
+            return dd().querySelector(n)
+        }
+
+        function dd() {
+            return document
+        }
+
+        function c(n) {
+            return dd().createElement(n)
+        }
+        bb.addEventListener('click', function (e) {
+            bb.style.left = l[0][p] + 'px';
+            bb.style.top = l[1][p] + 'px';
+            p = 1 - p;
+        })
+    </script>
+</body>
+
+</html>

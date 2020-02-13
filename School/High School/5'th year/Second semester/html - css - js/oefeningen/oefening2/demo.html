@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        body,
+        html {
+            margin: 0px;
+            height: 100%
+        }
+
+        .b {
+            margin: 0px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        c = cd();
+        p = cp();
+        p.className = "b";
+        b = cb();
+        p.append(b);
+        c.append(p);
+        b.innerHTML = "Verander";
+        h = ch();
+        c.append(h);
+        h.innerHTML = "Piet Mondriaan";
+        i = ci();
+        i.src = "Piet_Mondriaan.jpg";
+        c.append(i);
+        p1 = cp();
+        p1.innerHTML =
+            "Pieter Cornelis (Piet) Mondriaan (Amersfoort, 7 maart 1872 – New York, 1 februari 1944) was een Nederlandse kunstschilder en kunsttheoreticus, die op latere leeftijd in het buitenland woonde en werkte. Mondriaan wordt algemeen gezien als een pionier van de abstracte en non-figuratieve kunst. Vooral zijn latere geometrisch-abstracte werk, met de kenmerkende horizontale en verticale zwarte lijnen en primaire kleuren, is wereldberoemd en dient als inspiratiebron voor vele architecten en ontwerpers van toegepaste kunst. Hij was een van de belangrijkste medewerkers van het tijdschrift De Stijl en ontwikkelde een eigen kunsttheorie, die hij Nieuwe Beelding of neoplasticisme noemde. Hij is in het buitenland beter bekend als Mondrian, een wijziging die hij zelf invoerde nadat hij in Parijs was gaan wonen.";
+        p2 = cp();
+        p2.innerHTML =
+            "Mondriaan werd op 7 maart 1872 aan de Kortegracht in Amersfoort geboren als zoon van de christelijke hoofdonderwijzer, Pieter Cornelis Mondriaan, en zijn vrouw Johanna Christina de Kok. Hij werd gedoopt in de Nederlandse Hervormde Kerk en werd christelijk opgevoed. Omdat zijn moeder vaak ziek was, voerde zijn zus Christien op nog geen achtjarige leeftijd het huishouden. Zijn vader was naast hoofdonderwijzer ook tekenleraar en leerde hem al vroeg tekenen. In april 1880 verhuisde het gezin Mondriaan naar Winterswijk, waar Mondriaans vader hoofd werd van de School voor Christelijk Nationaal Onderwijs.";
+        c.append(p1);
+        c.append(p2);
+        z = document.querySelector('body');
+        z.append(c);
+        var pm = ch();
+
+        function cc(n) {
+            return document.createElement(n)
+        }
+
+        function cb() {
+            return cc('button')
+        }
+
+        function ci() {
+            return cc('img')
+        }
+
+        function cd() {
+            return cc('div')
+        }
+
+        function cp() {
+            return cc('p')
+        }
+
+        function ch() {
+            return cc('h1')
+        }
+        b.addEventListener('click', function (e) {
+            h.style.borderBottom = "1px solid black";
+            p1.style.marginLeft = "20px";
+            p1.style.fontSize = "18px";
+            p2.style.marginLeft = "20px";
+            p2.style.fontSize = "18px";
+            i.style.float = "right";
+            i.style.marginLeft = "20px";
+            i.style.border = "5px solid white";
+            z.style.backgroundColor = "red";
+            c.style.width = "800px";
+            c.style.marginLeft = "auto";
+            c.style.marginRight = "auto";
+            c.style.backgroundColor = "yellow";
+            c.style.borderLeft = "5px solid black";
+            c.style.borderRight = "5px solid black";
+            c.style.padding = "10px";
+            c.style.height = "100%";
+            b.style.display = "none";
+        });
+    </script>
+</body>
+
+</html>

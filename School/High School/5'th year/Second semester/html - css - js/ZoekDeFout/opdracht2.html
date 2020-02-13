@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        #container { height: 300px; background-color: black; }
+        .area { width: 50px; height: 30px; float: left; cursor: pointer; border: 1px dashed grey; margin: 20px;  }
+        .red { background-color: red; }
+        .green { background-color: green; }
+        .blue { background-color: blue; }
+        .yellow { background-color: yellow; }
+        .orange { background-color: orange; }
+        .hotpink { background-color: hotpink; }
+    </style>
+</head>
+<body>
+    <div>
+        <div class="area red" onmouseover="zetKleur('red')"></div>
+        <div class="area green" onmouseover="zetKleur('green')"></div>
+        <div class="area blue" onmouseover="zetKleur('blue')"></div>
+        <div class="area yellow" onmouseover="zetKleur('yellow')"></div>
+        <div class="area orange" onmouseover="zetKleur('orange')"></div>
+        <div class="area hotpink" onmouseover="zetKleur('hotpink')"></div>
+        <div style="clear:both"></div>
+    </div>
+    <div id="container">
+    </div>
+
+    <script>
+        function zetKleur(color) {
+            var el = document.getElementById('container');
+            el.style.backgroundColor = color
+        }
+    </script>
+    <div style="position:absolute; bottom:0; left:0; right:0; height:200px; background-color: grey;padding-left:20px; border-top:1px solid #333;">
+        <h3>Hint</h3>
+        <p>Als je met de muis over de gekleurde vlakken hovert dan krijgt het zwarte vlak dezelfde kleur</p>
+    </div>
+</body>
+</html>

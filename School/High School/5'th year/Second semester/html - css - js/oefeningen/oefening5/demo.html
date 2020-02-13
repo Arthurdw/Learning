@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .b {
+            text-align: center;
+            margin: 20px;
+        }
+
+        button {
+            margin-left: 5px;
+            margin-right: 5px;
+            width: 80px;
+        }
+
+        #c {
+            width: 1000px;
+            margin-left: auto;
+            margin-right: auto
+        }
+
+        img {
+            width: 100px;
+        }
+    </style>
+</head>
+
+<body>
+    <script>
+        var b = gd(),
+            s = "brick_",
+            bb = cd(),
+            cc = cd();
+        cc.id = 'c';
+        bb.className = 'b';
+        bg = cb();
+        bg.innerHTML = "Geel";
+        bb.append(bg);
+        b.append(bb);
+        b.append(cc);
+        bo = cb();
+        bo.innerHTML = "Oranje";
+        bb.append(bo);
+        bl = cb();
+        bl.innerHTML = "Blauw";
+        bb.append(bl);
+
+        function cb() {
+            return c('button')
+        }
+
+        function gd() {
+            return g('body')
+        }
+
+        function g(n) {
+            return dd().querySelector(n)
+        }
+
+        function dd() {
+            return document
+        }
+
+        function cd() {
+            return c('div')
+        }
+
+        function ci() {
+            return c('img')
+        }
+
+        function c(n) {
+            return dd().createElement(n)
+        }
+        bg.addEventListener('click', function (e) {
+            var m = ci();
+            m.src = s + 'yellow.jpg';
+            cc.append(m)
+        });
+        bo.addEventListener('click', function (e) {
+            var m = ci();
+            m.src = s + 'orange.jpg';
+            cc.append(m)
+        });
+        bl.addEventListener('click', function (e) {
+            var m = ci();
+            m.src = s + 'blue.jpg';
+            cc.append(m)
+        })
+    </script>
+</body>
+
+</html>

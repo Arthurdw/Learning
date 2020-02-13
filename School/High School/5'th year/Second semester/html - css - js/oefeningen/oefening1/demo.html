@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .c { width: 500px; margin-left:auto; margin-right: auto}
+        .b {width: 100px; float:left; text-align: center; font-size: 24px; cursor: pointer;}
+        .b:hover {background-color: grey}
+        p {text-align: center}
+    </style>
+</head>
+<body>
+    <script>var c=cd(),h=ce('p');var f=cd();var d=document.querySelector('body');c.classList.add('c');var sa=[12,18,30,64,96];f.style.clear="both";h.innerHTML="Hello";for(var i=0;i<5;i++){c.append(ge(sa[i]));}function cd(){return ce('div')}function ce(t) {return document.createElement(t)}function ge(s){var a=cd();a.classList.add('b');a.innerHTML=s;a.addEventListener("mouseover",function(e){h.style.fontSize=this.innerHTML+"px"});return a;}d.append(c);d.append(f);d.append(h);</script>
+</body>
+</html>
