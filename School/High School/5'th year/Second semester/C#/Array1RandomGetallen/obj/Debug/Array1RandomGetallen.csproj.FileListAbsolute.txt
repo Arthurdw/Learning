@@ -1,0 +1,10 @@
+F:\code\5INFO\sem2\C#\Array1RandomGetallen\bin\Debug\Array1RandomGetallen.exe.config
+F:\code\5INFO\sem2\C#\Array1RandomGetallen\bin\Debug\Array1RandomGetallen.exe
+F:\code\5INFO\sem2\C#\Array1RandomGetallen\bin\Debug\Array1RandomGetallen.pdb
+F:\code\5INFO\sem2\C#\Array1RandomGetallen\obj\Debug\Array1RandomGetallen.csprojAssemblyReference.cache
+F:\code\5INFO\sem2\C#\Array1RandomGetallen\obj\Debug\Array1RandomGetallen.Form1.resources
+F:\code\5INFO\sem2\C#\Array1RandomGetallen\obj\Debug\Array1RandomGetallen.Properties.Resources.resources
+F:\code\5INFO\sem2\C#\Array1RandomGetallen\obj\Debug\Array1RandomGetallen.csproj.GenerateResource.cache
+F:\code\5INFO\sem2\C#\Array1RandomGetallen\obj\Debug\Array1RandomGetallen.csproj.CoreCompileInputs.cache
+F:\code\5INFO\sem2\C#\Array1RandomGetallen\obj\Debug\Array1RandomGetallen.exe
+F:\code\5INFO\sem2\C#\Array1RandomGetallen\obj\Debug\Array1RandomGetallen.pdb
