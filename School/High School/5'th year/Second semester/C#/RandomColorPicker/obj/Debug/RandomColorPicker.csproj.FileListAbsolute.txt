@@ -1,0 +1,10 @@
+F:\code\5INFO\sem2\C#\RandomColorPicker\obj\Debug\RandomColorPicker.csprojAssemblyReference.cache
+F:\code\5INFO\sem2\C#\RandomColorPicker\obj\Debug\RandomColorPicker.Form1.resources
+F:\code\5INFO\sem2\C#\RandomColorPicker\obj\Debug\RandomColorPicker.Properties.Resources.resources
+F:\code\5INFO\sem2\C#\RandomColorPicker\obj\Debug\RandomColorPicker.csproj.GenerateResource.cache
+F:\code\5INFO\sem2\C#\RandomColorPicker\obj\Debug\RandomColorPicker.csproj.CoreCompileInputs.cache
+F:\code\5INFO\sem2\C#\RandomColorPicker\bin\Debug\RandomColorPicker.exe.config
+F:\code\5INFO\sem2\C#\RandomColorPicker\bin\Debug\RandomColorPicker.exe
+F:\code\5INFO\sem2\C#\RandomColorPicker\bin\Debug\RandomColorPicker.pdb
+F:\code\5INFO\sem2\C#\RandomColorPicker\obj\Debug\RandomColorPicker.exe
+F:\code\5INFO\sem2\C#\RandomColorPicker\obj\Debug\RandomColorPicker.pdb
