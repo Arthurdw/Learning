@@ -1,0 +1,9 @@
+D:\code\5INFO\sem2\C#\Nummerplaten\bin\Debug\Nummerplaten.exe.config
+D:\code\5INFO\sem2\C#\Nummerplaten\bin\Debug\Nummerplaten.exe
+D:\code\5INFO\sem2\C#\Nummerplaten\bin\Debug\Nummerplaten.pdb
+D:\code\5INFO\sem2\C#\Nummerplaten\obj\Debug\Nummerplaten.csprojAssemblyReference.cache
+D:\code\5INFO\sem2\C#\Nummerplaten\obj\Debug\Nummerplaten.Nummerplaten.resources
+D:\code\5INFO\sem2\C#\Nummerplaten\obj\Debug\Nummerplaten.Properties.Resources.resources
+D:\code\5INFO\sem2\C#\Nummerplaten\obj\Debug\Nummerplaten.csproj.GenerateResource.cache
+D:\code\5INFO\sem2\C#\Nummerplaten\obj\Debug\Nummerplaten.exe
+D:\code\5INFO\sem2\C#\Nummerplaten\obj\Debug\Nummerplaten.pdb
