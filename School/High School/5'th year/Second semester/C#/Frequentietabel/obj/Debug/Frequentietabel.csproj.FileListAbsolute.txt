@@ -1,0 +1,19 @@
+D:\5INFO\5 info\arthur\Frequentietabel\bin\Debug\Frequentietabel.exe.config
+D:\5INFO\5 info\arthur\Frequentietabel\bin\Debug\Frequentietabel.exe
+D:\5INFO\5 info\arthur\Frequentietabel\bin\Debug\Frequentietabel.pdb
+D:\5INFO\5 info\arthur\Frequentietabel\obj\Debug\Frequentietabel.csprojAssemblyReference.cache
+D:\5INFO\5 info\arthur\Frequentietabel\obj\Debug\Frequentietabel.Form1.resources
+D:\5INFO\5 info\arthur\Frequentietabel\obj\Debug\Frequentietabel.Properties.Resources.resources
+D:\5INFO\5 info\arthur\Frequentietabel\obj\Debug\Frequentietabel.csproj.GenerateResource.cache
+D:\5INFO\5 info\arthur\Frequentietabel\obj\Debug\Frequentietabel.csproj.CoreCompileInputs.cache
+D:\5INFO\5 info\arthur\Frequentietabel\obj\Debug\Frequentietabel.exe
+D:\5INFO\5 info\arthur\Frequentietabel\obj\Debug\Frequentietabel.pdb
+D:\code\5INFO\sem2\C#\Frequentietabel\bin\Debug\Frequentietabel.exe.config
+D:\code\5INFO\sem2\C#\Frequentietabel\bin\Debug\Frequentietabel.exe
+D:\code\5INFO\sem2\C#\Frequentietabel\bin\Debug\Frequentietabel.pdb
+D:\code\5INFO\sem2\C#\Frequentietabel\obj\Debug\Frequentietabel.csprojAssemblyReference.cache
+D:\code\5INFO\sem2\C#\Frequentietabel\obj\Debug\Frequentietabel.Form1.resources
+D:\code\5INFO\sem2\C#\Frequentietabel\obj\Debug\Frequentietabel.Properties.Resources.resources
+D:\code\5INFO\sem2\C#\Frequentietabel\obj\Debug\Frequentietabel.csproj.GenerateResource.cache
+D:\code\5INFO\sem2\C#\Frequentietabel\obj\Debug\Frequentietabel.exe
+D:\code\5INFO\sem2\C#\Frequentietabel\obj\Debug\Frequentietabel.pdb
