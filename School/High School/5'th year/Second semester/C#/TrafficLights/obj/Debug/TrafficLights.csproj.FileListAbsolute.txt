@@ -1,0 +1,10 @@
+D:\code\5INFO\sem2\C#\TrafficLights\bin\Debug\TrafficLights.exe.config
+D:\code\5INFO\sem2\C#\TrafficLights\bin\Debug\TrafficLights.exe
+D:\code\5INFO\sem2\C#\TrafficLights\bin\Debug\TrafficLights.pdb
+D:\code\5INFO\sem2\C#\TrafficLights\obj\Debug\TrafficLights.csprojAssemblyReference.cache
+D:\code\5INFO\sem2\C#\TrafficLights\obj\Debug\TrafficLights.TrafficLightsSimulator.resources
+D:\code\5INFO\sem2\C#\TrafficLights\obj\Debug\TrafficLights.Properties.Resources.resources
+D:\code\5INFO\sem2\C#\TrafficLights\obj\Debug\TrafficLights.csproj.GenerateResource.cache
+D:\code\5INFO\sem2\C#\TrafficLights\obj\Debug\TrafficLights.csproj.CoreCompileInputs.cache
+D:\code\5INFO\sem2\C#\TrafficLights\obj\Debug\TrafficLights.exe
+D:\code\5INFO\sem2\C#\TrafficLights\obj\Debug\TrafficLights.pdb
