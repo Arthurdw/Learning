@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>bollen</title>
+    <style>
+        body {
+            background-color: black;
+        }
+        #container {
+            margin-left: auto;
+            margin-right: auto;
+            position: relative;
+        }
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script>
+        var data = {
+            breedte: 500,
+            hoogte: 500,
+            kleur: "#f2bfc2",
+            bollen: [
+                { diameter: 100, x:  50, y: 100, karakter: "&", kleur: "green", rand: "darkgreen" },
+                { diameter: 300, x: 170, y:  20, karakter: "+", kleur: "lightblue", rand: "darkblue" },
+                { diameter:  50, x: 400, y: 350, karakter: "/", kleur: "orange", rand: "yellow" },
+                { diameter: 172, x:  10, y: 250, karakter: "€", kleur: "hotpink", rand: "purple" },
+                { diameter: 100, x: 240, y: 350, karakter: "@", kleur: "#0377fc", rand: "purple" }
+            ]
+        };
+
+        var container = document.getElementById("container");
+        container.style.backgroundColor = data.kleur;
+        container.style.width = data.breedte+"px";
+        container.style.height = data.hoogte+"px";
+
+        for (var i=0; i<data.bollen.length; i++) {
+            var bol = document.createElement("div");
+            bol.style.position = "absolute";
+            bol.style.left = data.bollen[i].x+"px";
+            bol.style.top = data.bollen[i].y+"px";
+            bol.style.width = data.bollen[i].diameter+"px";
+            bol.style.height = data.bollen[i].diameter+"px";
+            bol.style.border = "1px solid "+data.bollen[i].rand;
+            bol.style.borderRadius = data.bollen[i].diameter/2+"px";
+            bol.style.backgroundColor = data.bollen[i].kleur;
+            bol.style.textAlign = "center";
+            bol.style.lineHeight = data.bollen[i].diameter+"px";
+            bol.style.fontSize = 0.8*data.bollen[i].diameter+"px";
+            bol.innerHTML = data.bollen[i].karakter;
+            container.append(bol);
+        }
+    </script>
+</body>
+</html>

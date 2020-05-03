@@ -1,0 +1,37 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas</title>
+</head>
+
+<body>
+    <canvas id="foto" width="700px" height="900px"></canvas>
+    <button onclick="tekenPixel()">Teken pixel</button>
+    <input id="test" type="range" min="0" step="10" max="256" value="128">
+    <script>
+        var foto = document.getElementById("foto");
+        var context = foto.getContext("2d");
+        var image = new Image();
+        image.src = "mooi.jpeg";
+        image.onload = function () {
+            context.drawImage(image, 0, 0, 700, 900, 0, 0, 700, 900);
+        }
+
+        var slider = document.getElementById("test");
+        slider.oninput = function() {
+            tekenPixel(this.value)
+        };
+        function tekenPixel(amount) {
+            var imgData = context.getImageData(0, 0, 700, 900);
+            var data = imgData.data;
+            for (var i = 0; i < data.length/4; i++) {
+                data[4*i] = amount;
+            }
+            context.putImageData(imgData, 0, 0);
+        }
+    </script>
+</body>
+
+</html>
