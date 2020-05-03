@@ -1,0 +1,9 @@
+D:\code\5INFO\sem2\C#\Poxedex\bin\Debug\Poxedex.exe.config
+D:\code\5INFO\sem2\C#\Poxedex\bin\Debug\Poxedex.exe
+D:\code\5INFO\sem2\C#\Poxedex\bin\Debug\Poxedex.pdb
+D:\code\5INFO\sem2\C#\Poxedex\obj\Debug\Poxedex.csprojAssemblyReference.cache
+D:\code\5INFO\sem2\C#\Poxedex\obj\Debug\Poxedex.Form1.resources
+D:\code\5INFO\sem2\C#\Poxedex\obj\Debug\Poxedex.Properties.Resources.resources
+D:\code\5INFO\sem2\C#\Poxedex\obj\Debug\Poxedex.csproj.GenerateResource.cache
+D:\code\5INFO\sem2\C#\Poxedex\obj\Debug\Poxedex.exe
+D:\code\5INFO\sem2\C#\Poxedex\obj\Debug\Poxedex.pdb
