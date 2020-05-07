@@ -1,0 +1,10 @@
+D:\code\5INFO\sem2\C#\LedDecypher\bin\Debug\LedDecypher.exe.config
+D:\code\5INFO\sem2\C#\LedDecypher\bin\Debug\LedDecypher.exe
+D:\code\5INFO\sem2\C#\LedDecypher\bin\Debug\LedDecypher.pdb
+D:\code\5INFO\sem2\C#\LedDecypher\obj\Debug\LedDecypher.csprojAssemblyReference.cache
+D:\code\5INFO\sem2\C#\LedDecypher\obj\Debug\LedDecypher.Form1.resources
+D:\code\5INFO\sem2\C#\LedDecypher\obj\Debug\LedDecypher.Properties.Resources.resources
+D:\code\5INFO\sem2\C#\LedDecypher\obj\Debug\LedDecypher.csproj.GenerateResource.cache
+D:\code\5INFO\sem2\C#\LedDecypher\obj\Debug\LedDecypher.csproj.CoreCompileInputs.cache
+D:\code\5INFO\sem2\C#\LedDecypher\obj\Debug\LedDecypher.exe
+D:\code\5INFO\sem2\C#\LedDecypher\obj\Debug\LedDecypher.pdb
