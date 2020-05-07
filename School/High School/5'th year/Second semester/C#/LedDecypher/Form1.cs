@@ -115,11 +115,7 @@ namespace LedDecypher
                 return;
             }
             using (StreamWriter file = File.CreateText(path + "\\characters" + new Random().Next(0, 10000) + ".txt"))
-            {
-                string data = "";
-                foreach (Pattern ptrn in patterns) data += $"\"{ptrn.description}\", {String.Join(", ", ptrn.states)}\n";
-                file.Write(data);
-            }
+                foreach (Pattern ptrn in patterns) file.WriteLine($"\"{ptrn.description}\", {String.Join(", ", ptrn.states)}");
         }
 
         private class Pattern
