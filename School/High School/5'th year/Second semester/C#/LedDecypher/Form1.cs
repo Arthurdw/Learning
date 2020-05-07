@@ -1,12 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace LedDecypher
@@ -111,11 +107,7 @@ namespace LedDecypher
             using (var fbd = new FolderBrowserDialog())
             {
                 DialogResult result = fbd.ShowDialog();
-
-                if (result == DialogResult.OK && !string.IsNullOrWhiteSpace(fbd.SelectedPath))
-                {
-                    path = fbd.SelectedPath;
-                }
+                if (result == DialogResult.OK && !string.IsNullOrWhiteSpace(fbd.SelectedPath)) path = fbd.SelectedPath;
             }
             if (path == null)
             {
@@ -125,10 +117,7 @@ namespace LedDecypher
             using (StreamWriter file = File.CreateText(path + "\\characters" + new Random().Next(0, 10000) + ".txt"))
             {
                 string data = "";
-                foreach (Pattern ptrn in patterns)
-                {
-                    data += $"\"{ptrn.description}\", {String.Join(", ", ptrn.states)}\n";
-                }
+                foreach (Pattern ptrn in patterns) data += $"\"{ptrn.description}\", {String.Join(", ", ptrn.states)}\n";
                 file.Write(data);
             }
         }
