@@ -1,0 +1,10 @@
+D:\code\C#\SchoolRestau\bin\Debug\SchoolRestau.exe.config
+D:\code\C#\SchoolRestau\bin\Debug\SchoolRestau.exe
+D:\code\C#\SchoolRestau\bin\Debug\SchoolRestau.pdb
+D:\code\C#\SchoolRestau\obj\Debug\SchoolRestau.csprojAssemblyReference.cache
+D:\code\C#\SchoolRestau\obj\Debug\SchoolRestau.Form1.resources
+D:\code\C#\SchoolRestau\obj\Debug\SchoolRestau.Properties.Resources.resources
+D:\code\C#\SchoolRestau\obj\Debug\SchoolRestau.csproj.GenerateResource.cache
+D:\code\C#\SchoolRestau\obj\Debug\SchoolRestau.csproj.CoreCompileInputs.cache
+D:\code\C#\SchoolRestau\obj\Debug\SchoolRestau.exe
+D:\code\C#\SchoolRestau\obj\Debug\SchoolRestau.pdb
