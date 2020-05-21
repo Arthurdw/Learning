@@ -1,0 +1,3 @@
+D:/Coding/C/Learning/Structs/cmake-build-debug/CMakeFiles/Structs.dir
+D:/Coding/C/Learning/Structs/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/C/Learning/Structs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
