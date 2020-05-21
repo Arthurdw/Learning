@@ -1,0 +1,3 @@
+D:/Programming Language/First Interpreter/Basic C/cmake-build-debug/CMakeFiles/Basic_C.dir
+D:/Programming Language/First Interpreter/Basic C/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Programming Language/First Interpreter/Basic C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
