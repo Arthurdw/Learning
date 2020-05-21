@@ -1,0 +1,3 @@
+D:/Coding/C/Learning/DataTypes/cmake-build-debug/CMakeFiles/DataTypes.dir
+D:/Coding/C/Learning/DataTypes/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/C/Learning/DataTypes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
