@@ -1,0 +1,3 @@
+D:/Coding/C/Learning/Constants/cmake-build-debug/CMakeFiles/Constants.dir
+D:/Coding/C/Learning/Constants/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Coding/C/Learning/Constants/cmake-build-debug/CMakeFiles/rebuild_cache.dir
