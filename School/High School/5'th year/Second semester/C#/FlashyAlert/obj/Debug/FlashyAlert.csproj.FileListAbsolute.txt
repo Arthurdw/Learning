@@ -1,0 +1,11 @@
+D:\Coding\5INFO\sem2\C#\FlashyAlert\bin\Debug\FlashyAlert.exe.config
+D:\Coding\5INFO\sem2\C#\FlashyAlert\bin\Debug\FlashyAlert.exe
+D:\Coding\5INFO\sem2\C#\FlashyAlert\bin\Debug\FlashyAlert.pdb
+D:\Coding\5INFO\sem2\C#\FlashyAlert\obj\Debug\FlashyAlert.csprojAssemblyReference.cache
+D:\Coding\5INFO\sem2\C#\FlashyAlert\obj\Debug\FlashyAlert.Form1.resources
+D:\Coding\5INFO\sem2\C#\FlashyAlert\obj\Debug\FlashyAlert.Properties.Resources.resources
+D:\Coding\5INFO\sem2\C#\FlashyAlert\obj\Debug\FlashyAlert.csproj.GenerateResource.cache
+D:\Coding\5INFO\sem2\C#\FlashyAlert\obj\Debug\FlashyAlert.csproj.CoreCompileInputs.cache
+D:\Coding\5INFO\sem2\C#\FlashyAlert\obj\Debug\FlashyAlert.exe
+D:\Coding\5INFO\sem2\C#\FlashyAlert\obj\Debug\FlashyAlert.pdb
+D:\Coding\5INFO\sem2\C#\FlashyAlert\obj\Debug\FlashyAlert.AlertDisplay.resources

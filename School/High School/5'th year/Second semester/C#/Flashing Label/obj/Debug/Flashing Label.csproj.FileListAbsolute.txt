@@ -1,0 +1,10 @@
+D:\Coding\5INFO\sem2\C#\Flashing Label\bin\Debug\Flashing Label.exe.config
+D:\Coding\5INFO\sem2\C#\Flashing Label\bin\Debug\Flashing Label.exe
+D:\Coding\5INFO\sem2\C#\Flashing Label\bin\Debug\Flashing Label.pdb
+D:\Coding\5INFO\sem2\C#\Flashing Label\obj\Debug\Flashing Label.csprojAssemblyReference.cache
+D:\Coding\5INFO\sem2\C#\Flashing Label\obj\Debug\Flashing_Label.Form1.resources
+D:\Coding\5INFO\sem2\C#\Flashing Label\obj\Debug\Flashing_Label.Properties.Resources.resources
+D:\Coding\5INFO\sem2\C#\Flashing Label\obj\Debug\Flashing Label.csproj.GenerateResource.cache
+D:\Coding\5INFO\sem2\C#\Flashing Label\obj\Debug\Flashing Label.csproj.CoreCompileInputs.cache
+D:\Coding\5INFO\sem2\C#\Flashing Label\obj\Debug\Flashing Label.exe
+D:\Coding\5INFO\sem2\C#\Flashing Label\obj\Debug\Flashing Label.pdb
