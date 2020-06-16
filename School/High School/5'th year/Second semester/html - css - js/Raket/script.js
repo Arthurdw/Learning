@@ -35,8 +35,8 @@ async function move(automatic = false) {
 
 function moveRocket() {
     const rotation = getRotation() % 360;
-    root.style.setProperty("--rocket-pos-x", getPropValue("--rocket-pos-x") + (rotation === 0 || rotation === 180 ? 0 : rotation === 45 || rotation === 90 || rotation === 135 ? 1 : -1) + 'px');
-    root.style.setProperty("--rocket-pos-y", getPropValue("--rocket-pos-y") + (rotation === 90 || rotation === 270 ? 0 : rotation === 315 || rotation === 0 || rotation === 45 ? -1 : 1) + 'px');
+    root.style.setProperty("--rocket-pos-x", getPropValue("--rocket-pos-x") + (rotation === 0 || rotation === 180 ? 0 : rotation === 45 || rotation === 90 || rotation === 135 ? 1 : rotation === 225 || rotation === 270 || rotation == 315 ? -1 : 0) + 'px');
+    root.style.setProperty("--rocket-pos-y", getPropValue("--rocket-pos-y") + (rotation === 90 || rotation === 270 ? 0 : rotation === 315 || rotation === 0 || rotation === 45 ? -1 : rotation === 135 || rotation === 180 || rotation == 225 ? 1 : 0) + 'px');
 }
 
 async function rotate(negative = false) {
