@@ -1,0 +1,9 @@
+[package]
+name = "rs-learning_general"
+version = "0.1.0"
+authors = ["Arthur De Witte <arthur.dewitte@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
