@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 500px;
+    margin: 0 auto;
+    background-color: #313131;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+#controls {
+    margin: 0 auto;
+    width: 490px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#controls button {
+    margin: 0 5px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    color: #313131;
+    background-color: #f7f7f7;
+}
+
+#field {
+    width: 490px;
+    height: 490px;
+    margin: 10px 0;
+    background-color: #f7f7f7;
+    border: 5px solid #f7f7f7;
+}
+
+#field div {
+    width: 4.9px;
+    height: 4.9px;
+    float: left;
+}
+
+#site p {
+    font-size: large;
+    text-align: center;
+    color: #f7f7f7;
+}
+
+.field {
+    width: 490px !important;
+    height: 490px !important;
+    background-color: #313131;
+}
+
+.selected {
+    background-color: #f7f7f7;
+}
