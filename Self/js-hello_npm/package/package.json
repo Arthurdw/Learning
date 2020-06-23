@@ -1,0 +1,11 @@
+{
+  "name": "hello-npm-by-arthurdw",
+  "version": "0.0.2",
+  "description": "My first NPM package!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arthurdw",
+  "license": "MIT"
+}
