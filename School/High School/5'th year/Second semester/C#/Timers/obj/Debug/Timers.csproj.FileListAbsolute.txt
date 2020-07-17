@@ -1,9 +1,0 @@
-D:\code\5INFO\sem2\C#\Timers\bin\Debug\Timers.exe.config
-D:\code\5INFO\sem2\C#\Timers\bin\Debug\Timers.exe
-D:\code\5INFO\sem2\C#\Timers\bin\Debug\Timers.pdb
-D:\code\5INFO\sem2\C#\Timers\obj\Debug\Timers.csprojAssemblyReference.cache
-D:\code\5INFO\sem2\C#\Timers\obj\Debug\Timers.Form1.resources
-D:\code\5INFO\sem2\C#\Timers\obj\Debug\Timers.Properties.Resources.resources
-D:\code\5INFO\sem2\C#\Timers\obj\Debug\Timers.csproj.GenerateResource.cache
-D:\code\5INFO\sem2\C#\Timers\obj\Debug\Timers.exe
-D:\code\5INFO\sem2\C#\Timers\obj\Debug\Timers.pdb

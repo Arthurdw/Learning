@@ -1,8 +1,0 @@
-D:\code\5INFO\sem2\C#\rasterKleurenMethodes\rasterKleurenMethodes\bin\Debug\rasterKleurenMethodes.exe.config
-D:\code\5INFO\sem2\C#\rasterKleurenMethodes\rasterKleurenMethodes\bin\Debug\rasterKleurenMethodes.exe
-D:\code\5INFO\sem2\C#\rasterKleurenMethodes\rasterKleurenMethodes\bin\Debug\rasterKleurenMethodes.pdb
-D:\code\5INFO\sem2\C#\rasterKleurenMethodes\rasterKleurenMethodes\obj\Debug\rasterKleurenMethodes.csprojAssemblyReference.cache
-D:\code\5INFO\sem2\C#\rasterKleurenMethodes\rasterKleurenMethodes\obj\Debug\rasterKleurenMethodes.Properties.Resources.resources
-D:\code\5INFO\sem2\C#\rasterKleurenMethodes\rasterKleurenMethodes\obj\Debug\rasterKleurenMethodes.csproj.GenerateResource.cache
-D:\code\5INFO\sem2\C#\rasterKleurenMethodes\rasterKleurenMethodes\obj\Debug\rasterKleurenMethodes.exe
-D:\code\5INFO\sem2\C#\rasterKleurenMethodes\rasterKleurenMethodes\obj\Debug\rasterKleurenMethodes.pdb

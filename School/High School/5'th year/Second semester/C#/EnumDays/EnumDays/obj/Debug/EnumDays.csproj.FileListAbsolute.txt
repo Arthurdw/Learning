@@ -1,9 +1,0 @@
-D:\code\5INFO\sem2\C#\EnumDays\EnumDays\bin\Debug\EnumDays.exe.config
-D:\code\5INFO\sem2\C#\EnumDays\EnumDays\bin\Debug\EnumDays.exe
-D:\code\5INFO\sem2\C#\EnumDays\EnumDays\bin\Debug\EnumDays.pdb
-D:\code\5INFO\sem2\C#\EnumDays\EnumDays\obj\Debug\EnumDays.csprojAssemblyReference.cache
-D:\code\5INFO\sem2\C#\EnumDays\EnumDays\obj\Debug\EnumDays.Form1.resources
-D:\code\5INFO\sem2\C#\EnumDays\EnumDays\obj\Debug\EnumDays.Properties.Resources.resources
-D:\code\5INFO\sem2\C#\EnumDays\EnumDays\obj\Debug\EnumDays.csproj.GenerateResource.cache
-D:\code\5INFO\sem2\C#\EnumDays\EnumDays\obj\Debug\EnumDays.exe
-D:\code\5INFO\sem2\C#\EnumDays\EnumDays\obj\Debug\EnumDays.pdb
