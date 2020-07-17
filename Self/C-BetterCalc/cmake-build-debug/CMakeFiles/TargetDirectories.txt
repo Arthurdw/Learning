@@ -1,3 +1,0 @@
-D:/Coding/C/Learning/C-BetterCalc/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Coding/C/Learning/C-BetterCalc/cmake-build-debug/CMakeFiles/C_BetterCalc.dir
-D:/Coding/C/Learning/C-BetterCalc/cmake-build-debug/CMakeFiles/rebuild_cache.dir

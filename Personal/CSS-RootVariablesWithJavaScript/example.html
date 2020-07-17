@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Example Css</title>
+
+    <style>
+        :root {
+            --background: #fff;
+            --header: #000;
+            --span: #f505f5
+        }
+
+        body {
+            background-color: var(--background);
+        }
+
+        h1,
+        p {
+            color: var(--header);
+        }
+
+        span {
+            color: var(--span);
+        }
+    </style>
+
+</head>
+
+<body>
+    <h1>Hello, World</h1>
+    <p>Foo <span>Bar</span></p>
+
+    <button onclick="change()">Change</button>
+
+    <script>
+        const root = document.documentElement;
+
+        const change = () => {
+            localStorage.setItem("theme", localStorage.getItem("theme") !== "dark" ? "dark" : "light");
+            update();
+        }
+
+        const update = () => {
+            if (localStorage.getItem("theme") === "dark") {
+                root.style.setProperty("--background", "#000");
+                root.style.setProperty("--header", "#fff");
+            } else {
+                root.style.setProperty("--background", "#fff");
+                root.style.setProperty("--header", "#000");
+            }
+
+        }
+        update();
+    </script>
+</body>
+
+</html>
