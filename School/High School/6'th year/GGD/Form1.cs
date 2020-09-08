@@ -22,10 +22,7 @@ namespace GGD
             for (int i = Delimiter; i > 0; i--)
             {
                 Steps++;
-                if (FirstNumber % i == SecondNumber % i)
-                {
-                    return i;
-                }
+                if (FirstNumber % i == 0 && SecondNumber % i == 0 ) return i;
             }
             return 1;
         }
