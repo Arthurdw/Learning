@@ -1,0 +1,43 @@
+:root {
+    --column-count: 1;
+}
+
+.container {
+    margin: 8px;
+    border: 1px solid lightgray;
+    border-radius: 2px;
+    width: calc(100vw / var(--column-count) - 18px);
+    float: left;
+
+    .title {
+        padding: 8px;
+        background-color: white;
+    }
+
+    .task-list {
+        padding: 8px;
+
+        .task {
+            border: 1px solid lightgray;
+            padding: 8px;
+            margin-bottom: 8px;
+            border-radius: 2px;
+            background-color: white;
+        }
+
+        .highlight {
+            background-color: lightgreen;
+        }
+    }
+
+    .default {
+        transition: background-color 0.25s ease-in;
+        background-color: white;
+    }
+
+
+    .highlight {
+        transition: background-color 0.25s ease-in;
+        background-color: lightblue;
+    }
+}
