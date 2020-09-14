@@ -1,0 +1,10 @@
+2;JavaScript;Brendan Eich;./images/JavaScript.png
+3;Cs (C#);Microsoft;./images/Cs.png
+4;Java;James Gosling;./images/Java.png
+5;Rust;Graydon Hoare;./images/Rust.png
+6;PHP;Rasmus Lerdorf;./images/PHP.png
+7;Cpp (C++);Bjarne Stroustrup;./images/Cpp.png
+8;TypeScript;Microsoft;./images/TypeScript.png
+1;Python;Guido van Rossum;./images/Python.png;11
+11;a;a;https://lh3.googleusercontent.com/proxy/p-vythA02pxJfNzVXFkdAsX9biEpc7Mtx3UgTGcPnkm1OJoM9qum01MKSb4_GDqe-qHy0sK9zeLII6PHuy5m7k_71fIJcHJPFjPiHDYrcoQyPfMkLF-N0TyTBYh-maraz0MTylw46Pkjz0V8qA;
+11;b;b;https://static-cdn.jtvnw.net/jtv_user_pictures/556772c7-dac4-4283-923f-5590248c3e3c-profile_image-300x300.png;
