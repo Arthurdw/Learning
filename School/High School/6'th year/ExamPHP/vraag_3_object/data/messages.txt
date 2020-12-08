@@ -1,0 +1,4 @@
+administrator|_|Welkom in de chatbox|_|2020-12-03 23:31:28
+test|_|test|_|2020-12-08 10:04:28
+test|_|SMH|_|2020-12-08 10:16:52
+test|_|SMH|_|2020-12-08 10:17:11
