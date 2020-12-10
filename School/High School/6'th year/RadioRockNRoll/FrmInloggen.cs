@@ -29,7 +29,7 @@ namespace RadioRockNRoll
 
         private void InitializeProgram()
         {
-            db = new CLdatabeheer("06InfoArthur", "theWhiteA@6@21", "06InfoArthur", "arthur.go-ao.be", "3306");
+            db = new CLdatabeheer("06InfoArthur", "passwoord xD", "06InfoArthur", "arthur.go-ao.be", "3306");
             if (!db.ConnectionStatus)
             {
                 DialogResult rs = MessageBox.Show("Kon geen verbinding maken met de database!", "Oops...", MessageBoxButtons.RetryCancel);
