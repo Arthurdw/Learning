@@ -1,0 +1,33 @@
+[
+  {
+    "username": "Arthurdw",
+    "avatar": "https://cdn.xiler.net/avatars/iu71j3LXoHaUoa3L39gbyAvdIGzovNXm.png",
+    "github": "https://github.com/Arthurdw",
+    "languages": [
+      "Python",
+      "Rust",
+      "C#",
+      "TypeScript",
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "CSS",
+      "Java"
+    ]
+  },
+  {
+    "username": "Loeka1234",
+    "avatar": "https://cdn.xiler.net/avatars/XAvMOCYTcnjqYVVuElocG0NgJEdSNzgp.png",
+    "github": "https://github.com/Loeka1234",
+    "languages": [
+      "GO",
+      "C#",
+      "TypeScript",
+      "JavaScript",
+      "PHP",
+      "HTML",
+      "CSS",
+      "Java"
+    ]
+  }
+]
