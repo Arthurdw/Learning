@@ -1,0 +1,35 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>test13</title>
+    <style>
+        .item {
+            float: left;
+            width: 40px;
+            height: 40px;
+            font-size: 30px;
+            line-height: 40px;
+            border: 1px solid black;
+            margin: 5px;
+            text-align: center;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script>
+        var doc = document.getElementById("container");
+        var items = [1, 5 ,8 ,7, 9, 4, 5, 5, 3, 8, 9, 1, 5, 2, 3];
+        for (var i = 0; i < items.length; ++i) {
+            var p = document.createElement("p");
+            p.innerHTML = items[i] < 3 ? 'x' : items[i];
+            p.style.color = items[i] > 5 ? "red" : "black";
+            p.style.backgroundColor = items[i] > items[i === 0 ? 0 : i-1] ? "yellow" : "white";
+            p.classList.add("item")
+            doc.append(p);
+        }
+    </script>
+</body>
+</html>

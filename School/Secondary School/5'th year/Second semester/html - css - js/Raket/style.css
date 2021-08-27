@@ -1,0 +1,87 @@
+/* ©Athurdw | GO-AO */
+:root {
+  --rocket-pos-x: 250px;
+  --rocket-pos-y: 250px;
+  --rocket-rotation: 0deg;
+}
+
+body {
+  background-color: black;
+}
+
+/* The interaction menu */
+
+#menu {
+    position: absolute;
+    z-index: 100;
+    width: 150px;
+    height: 100px;
+}
+
+#menu button {
+    margin: 0 auto;
+    width: 150px;
+    height: 25px;
+}
+
+#menu .navigation button {
+    padding: 0;
+    float: left;
+    width: 75px;
+    height: 50px;
+}
+
+#menu .navigation button img {
+    width: 45px;
+    height: 45px;
+}
+
+/* Rocket */
+
+#rocket {
+  width: 80px;
+  height: 150px;
+  z-index: 50;
+  position: absolute;
+  top: var(--rocket-pos-y);
+  left: var(--rocket-pos-x);
+  background-color: #D2D8DF;
+  border-top-right-radius: 100%;
+  border-top-left-radius: 100%;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+  transform: rotate(var(--rocket-rotation));
+}
+
+/* #rocket .wing {
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    top: calc(var(--rocket-pos-y) + 50px);
+}
+
+#rocket .wing-left {
+    background-color: #4C4E51;
+    border-top-left-radius: 80%;
+    border-bottom-right-radius: 20%;
+    left: -20px;
+} */
+
+
+#rocket .wing-right {
+    background-color: #4C4E51;
+    border-top-right-radius: 80%;
+    border-bottom-left-radius: 20%;
+    left: 55px;
+}
+
+#rocket .beam {
+    position: absolute;
+    height: 60px;
+    width: 20px;
+    background: linear-gradient(to bottom, #0e9fff 0%, #ff7300 20%, red 100%);;
+    left: calc(50% - 10px);
+    top: 100%;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+}

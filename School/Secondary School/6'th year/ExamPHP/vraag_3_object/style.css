@@ -1,0 +1,40 @@
+.container {
+    max-width: 600px;
+}
+
+.message {
+    position: relative;
+    background-color: lightgreen;
+    padding: 5px;
+    margin: 5px 0;
+}
+
+.message .content {
+    width: 100%;
+    font-weight: bold;
+}
+
+.about .author,
+.about .time {
+    width: fit-content;
+    padding: 0;
+    margin: 0;
+    font-style: italic;
+}
+
+.about {
+    display: flex;
+    justify-content: space-between;
+}
+
+.abbr {
+    display: flex;
+    justify-content: space-between;
+}
+
+.abbr a {
+    color: black;
+    padding: 6px 12px;
+    border: 1px solid lightgray;
+    border-radius: 3px;
+}

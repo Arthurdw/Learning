@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kleuren", "Kleuren.csproj", "{565D741D-E62D-44A7-BE8F-80986A032C93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{565D741D-E62D-44A7-BE8F-80986A032C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565D741D-E62D-44A7-BE8F-80986A032C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565D741D-E62D-44A7-BE8F-80986A032C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565D741D-E62D-44A7-BE8F-80986A032C93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E4B506D-957C-4FF7-AE94-6B87662A9BD9}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,53 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Arrays3</title>
+    <style>
+        body,
+        #container,
+        #container div,
+        #container div p {
+            margin: 0;
+            padding: 0;
+            margin: 0 auto;
+            text-align: center;
+        }
+
+        #container div {
+            width: "20px";
+        }
+    </style>
+</head>
+
+<body>
+    <div id="container"></div>
+    <script>
+        function getRandomInt(max) {
+            return Math.floor(Math.random() * Math.floor(max));
+        }
+
+        var doc = document.getElementById("container");
+        var elementList = [
+            ["#000000", 50, "white", "black"],
+            ["#292929", 70, "white", "dark gray"],
+            ["#525252", 90, "black", "gray"],
+            ["#202020", 30, "white", "darker gray"]
+        ];
+        for (var i = 0; i < 1000; i++) {
+            var selected = i % elementList.length;
+            var box = document.createElement("div");
+            var p = document.createElement("p");
+            box.style.backgroundColor = elementList[selected][0];
+            box.style.width = getRandomInt(1800) + elementList[selected][1] + "px";
+            p.style.color = elementList[selected][2];
+            p.innerHTML = elementList[selected][3];
+            box.append(p);
+            doc.append(box);
+        }
+    </script>
+</body>
+
+</html>

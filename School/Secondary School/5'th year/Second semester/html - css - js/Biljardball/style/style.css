@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #bebebe;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#frame {
+    width: 80vw;
+    height: 80vh;
+    background-color: #313131;
+}
+
+.circle {
+    height: 3vw;
+    width: 3vw;
+    background-color: #ff0505;
+    border-radius: 50%;
+    position: absolute;
+}

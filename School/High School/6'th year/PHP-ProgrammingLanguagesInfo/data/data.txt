@@ -1,8 +1,0 @@
-1;Python;Guido van Rossum;Python.png
-2;JavaScript;Brendan Eich;JavaScript.png
-3;Cs (C#);Microsoft;Cs.png
-4;Java;James Gosling;Java.png
-5;Rust;Graydon Hoare;JavaScript.png
-6;PHP;Rasmus Lerdorf;PHP.png
-7;Cpp (C++);Bjarne Stroustrup;Cpp.png
-8;TypeScript;Microsoft;TypeScript.png

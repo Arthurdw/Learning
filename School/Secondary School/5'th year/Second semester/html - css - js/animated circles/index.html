@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        #container {position: relative;}
+    </style>
+</head>
+<body>
+    <div id="container"></div>
+    <script>
+        var data = [
+            {
+                radius: 100,
+                color: "lightgreen",
+                border : "green",
+                start: {
+                    x: 100,
+                    y: 100
+                },
+                eind: {
+                    x: 600,
+                    y: 300
+                },
+                steps : 1000,
+                currentStep: 0,
+                richting: 0,
+                htmlElement: null,
+                onway: true
+            },
+            {
+                radius: 50,
+                color: "lightcoral",
+                border : "red",
+                start: {
+                    x: 800,
+                    y: 200
+                },
+                eind: {
+                    x: 200,
+                    y: 400
+                },
+                steps : 500,
+                currentStep: 0,
+                richting: 0,
+                htmlElement: null,
+                onway: true
+            },
+            {
+                radius: 80,
+                color: "lightblue",
+                border : "coral",
+                start: {
+                    x: 100,
+                    y: 500
+                },
+                eind: {
+                    x: 1000,
+                    y: 300
+                },
+                steps : 20,
+                currentStep: 0,
+                richting: 0,
+                htmlElement: null,
+                onway: true
+            },
+            {
+                radius: 10,
+                color: "orange",
+                border : "black",
+                start: {
+                    x: 0,
+                    y: 0
+                },
+                eind: {
+                    x: 1500,
+                    y: 900
+                },
+                steps : 1500,
+                currentStep: 0,
+                richting: 0,
+                htmlElement: null,
+                onway: true
+            },
+            {
+                radius: 90,
+                color: "white",
+                border : "darkblue",
+                start: {
+                    x: 180,
+                    y: 633
+                },
+                eind: {
+                    x: 985,
+                    y: 0
+                },
+                steps : 420,
+                currentStep: 0,
+                richting: 0,
+                htmlElement: null,
+                onway: true
+            }
+        ];
+
+        var container = document.getElementById("container");
+        for (var i=0; i<data.length; i++) {
+            var bol = document.createElement("div");
+            bol.style.width = 2*data[i].radius+"px";
+            bol.style.height = 2*data[i].radius+"px";
+            bol.style.borderRadius = data[i].radius+"px";
+            bol.style.border = "1px solid "+data[i].border;
+            bol.style.backgroundColor = data[i].color;
+            bol.style.position = "absolute";
+            bol.style.top = data[i].start.y+"px";
+            bol.style.left = data[i].start.x+"px";
+            container.append(bol);
+            data[i].htmlElement = bol;
+        }
+
+        setInterval(update, 5);
+
+        function update() {
+            for (var i=0; i<data.length; i++) {
+                var bol = data[i].htmlElement;
+
+                var totaleX = data[i].eind.x - data[i].start.x;
+                var stepX = totaleX / data[i].steps;
+                var currentX = data[i].currentStep * stepX;
+
+                var totaleY = data[i].eind.y - data[i].start.y;
+                var stepY = totaleY / data[i].steps;
+                var currentY = data[i].currentStep * stepY;
+
+                bol.style.top = data[i].start.y+currentY+"px";
+                bol.style.left = data[i].start.x+currentX+"px";
+                
+                if (data[i].onway)
+                    if (data[i].currentStep < data[i].steps) data[i].currentStep++;
+                    else data[i].onway = false
+                else 
+                    if (data[i].currentStep != 0) data[i].currentStep--;
+                    else data[i].onway = true
+            }
+        }
+    </script>
+</body>
+</html>
