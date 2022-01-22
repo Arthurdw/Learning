@@ -2,7 +2,10 @@
 // Do NOT use this for sensitive data as linear encryption is extremely easy to crack.
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"math/big"
+)
 
 const TableSize = 256
 
@@ -17,13 +20,10 @@ func main() {
 }
 
 func getInverse(n int) int {
-	for i := 0; i < TableSize; i++ {
-		if (n*i)%TableSize == 1 {
-			return i
-		}
-	}
+	num := big.NewInt(int64(n))
+	bigTS := big.NewInt(int64(TableSize))
 
-	return 0
+	return int((bigTS.ModInverse(num, bigTS)).Int64())
 }
 
 func sum(collection []byte) int {
