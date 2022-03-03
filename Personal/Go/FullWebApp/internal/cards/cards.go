@@ -1,4 +1,4 @@
-package card
+package cards
 
 import (
 	"github.com/stripe/stripe-go/v72"
@@ -51,9 +51,9 @@ func cardErrorMessage(code stripe.ErrorCode) string {
 	switch code {
 
 	case stripe.ErrorCodeCardDeclined:
-		msg = "Your card was declined."
+		msg = "Your cards was declined."
 	case stripe.ErrorCodeExpiredCard:
-		msg = "Your card has expired."
+		msg = "Your cards has expired."
 	default:
 		msg = "There was an error processing your payment."
 	}
