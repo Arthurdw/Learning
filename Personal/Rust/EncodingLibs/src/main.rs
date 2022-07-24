@@ -13,15 +13,15 @@ fn main() {
     let sample = HashMap::from([
         (
             "hello".to_string(),
-            ("world".to_string(), "2022-04-12T22:10:57+02:00"),
+            ("world".to_string(), "2022-04-12T22:10:57+02:00".to_string()),
         ),
         (
             "foo".to_string(),
-            ("bar".to_string(), "2022-04-12T22:10:57+02:00"),
+            ("bar".to_string(), "2022-04-12T22:10:57+02:00".to_string()),
         ),
         (
             "bake".to_string(),
-            ("eggs".to_string(), "2022-04-12T22:10:57+02:00"),
+            ("eggs".to_string(), "2022-04-12T22:10:57+02:00".to_string()),
         ),
     ]);
 
