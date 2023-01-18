@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="185.0" prefWidth="306.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ui.fx.LoginController">
+    <Label layoutX="43.0" layoutY="37.0" text="%lbl.username" />
+    <TextField id="username" fx:id="txtUsername" layoutX="111.0" layoutY="33.0" promptText="john" />
+    <Label layoutX="43.0" layoutY="72.0" text="%lbl.password" />
+    <TextField id="password" fx:id="txtPassword" layoutX="111.0" layoutY="68.0" promptText="********" />
+    <Button id="login" fx:id="btnLogin" layoutX="43.0" layoutY="115.0" mnemonicParsing="false" onAction="#onLogin" prefHeight="25.0" prefWidth="105.0" text="%btn.login" />
+    <Button id="register" layoutX="155.0" layoutY="115.0" mnemonicParsing="false" onAction="#onRegister" prefHeight="25.0" prefWidth="105.0" text="%btn.register" />
+    <Label id="error" fx:id="lblErrorMessage" layoutX="41.0" layoutY="152.0" opacity="0" text="Error message" textFill="RED" />
+</Pane>
