@@ -19,6 +19,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.vector.ImageVector
 import androidx.compose.ui.res.painterResource
+import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
@@ -58,8 +59,8 @@ fun Main(modifier: Modifier = Modifier) {
         verticalArrangement = Arrangement.Center
     ) {
         Image(painter = image, contentDescription = null, modifier = modifier.width(100.dp).padding(bottom = 12.dp))
-        Text(text = "Arthur De Witte", fontSize = 24.sp, color = Color.White)
-        Text(text = "Software Engineer", fontSize = 18.sp, color = Color(0xFF3ddc84), fontWeight = FontWeight.Bold)
+        Text(text = stringResource(R.string.author), fontSize = 24.sp, color = Color.White)
+        Text(text = stringResource(R.string.title), fontSize = 18.sp, color = Color(0xFF3ddc84), fontWeight = FontWeight.Bold)
     }
 }
 
@@ -67,9 +68,9 @@ fun Main(modifier: Modifier = Modifier) {
 fun Footer(modifier: Modifier = Modifier) {
     Column(modifier = modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
         Column(modifier = modifier.padding(bottom = 50.dp)) {
-            FooterItem(icon = Icons.Rounded.Email, text = "dev@arthurdw.com")
-            FooterItem(icon = Icons.Rounded.Send, text = "Discord: Arthur#0002")
-            FooterItem(icon = Icons.Rounded.Favorite, text = "Made with Jetpack Compose")
+            FooterItem(icon = Icons.Rounded.Email, text = stringResource(R.string.contact))
+            FooterItem(icon = Icons.Rounded.Send, text = stringResource(R.string.message))
+            FooterItem(icon = Icons.Rounded.Favorite, text = stringResource(R.string.made_with))
         }
     }
 }

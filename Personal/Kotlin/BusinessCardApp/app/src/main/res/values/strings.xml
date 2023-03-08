@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">BusinessCardApp</string>
+    <string name="author">Arthur De Witte</string>
+    <string name="title">Software Engineer</string>
+    <string name="contact">dev@arthurdw.com</string>
+    <string name="message">Discord: Arthur#0002</string>
+    <string name="made_with">Made with Jetpack Compose</string>
 </resources>
